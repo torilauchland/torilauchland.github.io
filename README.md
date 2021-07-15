@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Tori Lauchland !</h1>
-				<p>I'm an Asset Coordinator for The Walt Disney Company but a fun fact about me is that I was in <em> Once Upon A Time In Hollywood </em> Don't believe me? <a href="/about"> Read more about my life... </a></p>
+				<p>I'm an Asset Coordinator for The Walt Disney Company but a fun fact about me is that I was in <em> Once Upon A Time In Hollywood </em> <p> Don't believe me? </p> <a href="/about"> Read more about my life... </a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
