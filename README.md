@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title> Tori Lauchland, Asset Coordinator for The Walt Disney Company </title>
 	</head>
 	<body>
 		<nav>
@@ -14,14 +14,14 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+        		<h1>Hi there, I'm Tori Lauchland !</h1>
+				<p>I'm an Asset Coordinator for The Walt Disney Company but a fun fact about me is that I was in <em> Once Upon A Time In Hollywood </em> Don't believe me? <a href="/about"> Read more about my life... </a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+        		<li><a href="mailto:torilauchland@gmail.com">email</a></li>
+        		<li><a href="https://github.com/torilauchland">github.com/torilauchland</a></li>
 			</ul>
 		</footer>
 	</body>
